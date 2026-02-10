@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**zeynepdemirtas95/zeynepdemirtas95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben Zeynep. İş analisti olarak ürün ve yazılım ekipleriyle yakın çalışıyorum.
+Agile metodolojisiyle projelerde gereksinim analizi, süreç iyileştirme ve test
+süreçlerinin planlanması gibi konulara odaklanıyorum.
 
-Here are some ideas to get you started:
+### Hakkımda
+- Odaklandığım alanlar: gereksinim analizi, süreç yönetimi, kullanıcı hikayeleri
+- İlgi duyduğum konular: süreç iyileştirme, paydaş yönetimi, veri odaklı kararlar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ne yapıyorum?
+- 🌱 Kullandığım araçlar: [ör. Jira, Confluence, Miro, Git, SQL, Postman]
+
+### Bana Ulaşın
+- 💬 [iş analizi / süreç yönetimi / agile]
+- 📫 E-posta: [zeynep@isikbilgi.com]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/zeynep-dirlik-demirtas]
